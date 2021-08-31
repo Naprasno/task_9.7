@@ -1,0 +1,11 @@
+a {
+    font-size: 20px;
+    text-decoration: none;
+}
+a:hover {
+    color:forestgreen;
+    text-decoration: underline;
+}
+li{
+    margin-top: 10px;
+}

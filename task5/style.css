@@ -1,0 +1,17 @@
+a:hover{
+    color:forestgreen;
+    text-decoration: underline;
+}
+label{
+    display: block;
+    margin: 10px;
+}
+button{
+    display: block;
+    height: 45px;
+    background-color: mediumpurple;
+    border-radius: 10px;
+}
+#duplicateField {
+    font-style: italic;
+}
